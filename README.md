@@ -2,6 +2,7 @@
 Use MSP430 to sample analog signals (from motion radars in my application), and transfer data to a computer through XBee (ZigBee) modules.
 
 ## Environments
+
 ### Hardware
 - MSP430 (M430F261X)
 - XBee module
